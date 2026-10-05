@@ -1,10 +1,10 @@
-# Lucas IP Check
+# IP
 
-A free public IP checker with a clean interface. Built by Lucas Li.
+A free public IP checker with a clean interface.
 
 ## Use it
 
-Open the GitHub Pages website and click **Find my IP**. It checks public IPv4, IPv6, and the address used by a dual-stack request. Copy, hide, and refresh your result. Inspect a pasted IP locally without sending it anywhere.
+Open [IP Check](https://lucasli1337unknown.github.io/IP/) and click **Find my IP**. It checks public IPv4, IPv6, and the address used by a dual-stack request. Copy, hide, and refresh your result. Inspect a pasted IP locally without sending it anywhere.
 
 Open `index.html` locally or serve this directory with `python3 -m http.server 8000`. No build step, npm dependencies, account, payment, or API key.
 
